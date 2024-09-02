@@ -1,7 +1,7 @@
 public class Atividade2 {
     public static void main(String[] args) {
 
-        Integer nota = 9;
+        Integer nota = 3;
 
         //notas
         if (nota >= 9) {
