@@ -51,5 +51,6 @@ public class Atividade11 {
         System.out.println("Impostos: "+impostos);
         System.out.println("Salario Liquido: "+salarioLiquido);
 
+        sc.close();
         }
     }

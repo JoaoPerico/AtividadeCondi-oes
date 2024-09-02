@@ -16,5 +16,6 @@ public class Atividade6 {
         }else if (media <5){
             System.out.println("Reprovado!");
         }
+        sc.close();
     }
 }
