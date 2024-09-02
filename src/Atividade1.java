@@ -3,14 +3,11 @@ public class Atividade1 {
 
 Integer idade = 19;
 
-
-
 if (idade >= 18) {
     System.out.println("Maior de idade");
 }else if (idade < 18) {
     System.out.println("Menor de idade");
 }
-
 
     }
 }

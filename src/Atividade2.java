@@ -3,6 +3,7 @@ public class Atividade2 {
 
         Integer nota = 9;
 
+        //notas
         if (nota >= 9) {
             System.out.println("Exelente");
         }else if (nota >= 7) {
@@ -12,7 +13,6 @@ public class Atividade2 {
         }else if (nota < 5) {
             System.out.println("Insatisfatorio");
         }
-
 
     }
 }
